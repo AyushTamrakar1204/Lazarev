@@ -291,20 +291,20 @@ nav button svg{
     width: 100%;
     min-height: 100vh;
     position: relative;
-    padding: 8vw 10.5vw;
+    padding: 0vw 3vw;
     display: flex;
-    align-items: center;
     justify-content: space-between;
     background-color: #fff;
 }
+
 #page4-left{
     height: 100vh;
     width: 40%;
     /* background-color: red; */
 }
 #page4-left h1{
-    padding-top: 20vh;
-    padding-left: 10vh;
+    padding-top: 12vh;
+    padding-left: 7vh;
     color: black;
     font-weight: 700;
     font-size: 50px;
@@ -312,7 +312,20 @@ nav button svg{
 #page4-right{
     height: 100vh;
     width: 50%;
-    background-color: #333;
+    background-color: #fff;
+    position: relative;
+}
+#page4-right p{
+    font-weight: 800;
+    font-size: 1.5vw;
+    color: black;
+}
+#page4-right h5{
+    font-weight: 500;
+    font-size: 1vw;
+    color: grey;
+    padding-top: 6vw;
+    padding-bottom: 3.5vw;
 }
 
 #page5 {
