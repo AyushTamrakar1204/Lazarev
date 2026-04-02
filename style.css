@@ -681,8 +681,3 @@ summary::marker {
 #btm7-part2 h4:nth-child(7){
     transform: translateX(50%);
 }
-
-#page8 {
-    height: 100vh;
-    background-color: #111;
-}
